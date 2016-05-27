@@ -1,0 +1,16 @@
+{
+  "name": "office-mapper",
+  "version": "1.0.0",
+  "description": "An interactive office plan",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Iain J McCallum",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-typescript": "^2.13.5"
+  }
+}
